@@ -13,6 +13,7 @@ This is a mini React project for a community of artists and art lovers. Mainly F
 ## 🧰 🛠️ Tech Stack & Techniques:
 
 - React
+- JavaScript
 - Vanilla CSS
 - CSS Modules
 - Styled Components
