@@ -18,6 +18,7 @@ This is a mini React project for a community of artists and art lovers. Mainly F
 - CSS Modules
 - Styled Components
 - Tailwind CSS
+- Static & Dynamic (Conditional) Styling
 
 ---
 
