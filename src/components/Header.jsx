@@ -1,5 +1,5 @@
 import logo from "../assets/logo.png";
-import "./Header.css";
+import classes from "./Header.module.css";
 
 export default function Header() {
   return (
@@ -7,11 +7,12 @@ export default function Header() {
       <img src={logo} alt="A canvas" />
       <h1>ReactArt</h1>
       <p
-      // This is an inline styles
-      // style={{
-      //   color: "red",
-      //   textAlign: "left",
-      // }}
+        // This is an inline styles
+        // style={{
+        //   color: "red",
+        //   textAlign: "left",
+        // }}
+        className={classes.paragraph}
       >
         A community of artists and art-lovers.
       </p>
