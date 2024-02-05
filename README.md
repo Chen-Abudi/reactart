@@ -4,6 +4,7 @@
 
 - Intro
 - Tech Stack & Techniques
+- CSS Varied Styles - Advantages & Disadvantages
 - Additional Link
 
 ## 🔎 Intro:
