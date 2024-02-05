@@ -9,7 +9,7 @@
 
 ## 🔎 Intro:
 
-This is a mini React project for a community of artists and art lovers. **`Mainly Focused`** on practicing and working with a different CSS Styling Frameworks.
+This is a mini React project for a community of artists and art lovers. **`Mainly Focused`** on practicing and working with a diversified CSS Styling Frameworks.
 
 ## 🧰 🛠️ Tech Stack & Techniques:
 

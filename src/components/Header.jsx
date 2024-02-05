@@ -13,7 +13,7 @@ export default function Header() {
       </h1>
       <p
         className="text-stone-500"
-        // This is an inline styles
+        // This is an example of inline styles
         // style={{
         //   color: "red",
         //   textAlign: "left",
